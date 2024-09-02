@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "client.h": "c",
+        "log.h": "c",
+        "string.h": "c"
+    }
+}
